@@ -1,0 +1,23 @@
+{
+  "name": "jvn-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novita-works/jvn-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novita-works/jvn-cypress/issues"
+  },
+  "homepage": "https://github.com/novita-works/jvn-cypress#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
